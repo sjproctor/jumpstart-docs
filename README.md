@@ -1,3 +1,4 @@
-# jumpstart-example
-Docs and examples for Jumpstart at LEARN academy, a weekend class for beginners <br />
-Example code for September 2019
+# Jumpstart Example
+* Docs and example builds for Jumpstart at LEARN academy
+* A weekend class for beginners covering intro to HTML, CSS, JavaScript
+* Example code for September 2019
