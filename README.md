@@ -1,4 +1,11 @@
-# Jumpstart Example
-* Docs and example builds for Jumpstart at LEARN academy
-* A weekend class for beginners covering intro to HTML, CSS, JavaScript
-* Example code for September 2019
+# Jumpstart: A weekend class for beginners covering intro to HTML, CSS, JavaScript
+
+## This repo contains:
+- Day by day buildout and notes
+  - Day 1: HTML
+  - Day 2: JavaScript
+  - Day 3: CSS
+- Additional JavaScript code examples
+- Magic 8 Ball HTML and JavaScript
+
+
