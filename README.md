@@ -1,5 +1,5 @@
 # Jumpstart
-A weekend class for beginners at LEARN Academy. 20 hours covering introduction to HTML, CSS, JavaScript.
+A weekend class for beginners at LEARN Academy. 20 hours of class covering introduction to HTML, CSS, JavaScript.
 
 ### HTML
 - [ Day 1: HTML Notes ](./html/instructor-notes.md)

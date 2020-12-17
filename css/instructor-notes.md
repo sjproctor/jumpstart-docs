@@ -1,10 +1,10 @@
 # CSS Instructor Notes
 
-- id/class
+- id/class/tag
 - syntax
 - flex box
 - animation/keyframes
-- boarder around elements to see where the div is
+- border around elements to see where the div is
 
 
 ### Centering
