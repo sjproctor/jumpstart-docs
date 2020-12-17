@@ -3,7 +3,7 @@ A weekend class for beginners at LEARN Academy. 20 hours of class covering intro
 
 ### HTML
 - [ Day 1: HTML Notes ](./html/instructor-notes.md)
-- [ Day 1: HTML Code ](./html/day1-code.md)
+- [ Day 1: HTML Code ](./html/day1-code.html)
 
 ### JavaScript
 - [ Day 2: JavaScript Notes ](./javascript/instructor-notes.md)
