@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Magic8 Ball</title>
+    <link rel="stylesheet" type="text/css" href="magic8.css" />
+  </head>
+  <body>
+    <div class="header-section">
+      <h1>Magic 8 Ball</h1>
+      <h2>
+        Ask a questions and reveal the future!
+      </h2>
+      <img
+        src="https://www.thebearandthefox.com/wp-content/uploads/2018/10/fortune-teller.jpg"
+        height="100px"
+        alt="fortune teller sign"
+      />
+      <hr />
+    </div>
+    <p>
+      Ask the Magic8 Ball a question:
+    </p>
+      <input type="text" />
+      <br />
+      <br />
+      <button type="button" onclick="magic()">
+        Click Here For Answer
+      </button>
+      <div id="eightBall">
+        <div id="eight">8</div>
+        <p id="answer"></p>
+      </div>
+      <script type="text/javascript" src="magic8.js"></script>
+  </body>
+</html>
