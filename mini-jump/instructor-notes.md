@@ -62,3 +62,7 @@ Build out the project in incremental pieces while discussing the fundamentals. A
 2:30 - 2:45 Break  
 2:45 - 3:30 CSS pairing  
 3:30 - 4:00 Demo and wrap up  
+
+
+### Resources
+- [ Code Pen Magic8 Ball ](https://codepen.io/finnhvman/pen/wrLPJz)

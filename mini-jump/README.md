@@ -20,3 +20,4 @@ A 6 hour intro to coding course featuring the fundamentals of the languages of t
 - [ Instructor Process ](./instructor-notes.md#instructor-process)
 - [ Student Notes ](./instructor-notes.md#student-notes)
 - [ Schedule ](./instructor-notes.md#schedule)
+- [ Resources ](./instructor-notes.md#resources)
