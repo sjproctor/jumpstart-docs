@@ -14,3 +14,11 @@ const magic = () => {
     return document.getElementById("answer").innerHTML = "Try again."
   }
 }
+
+// JavaScript - history, etc
+// Goal - need to generate a random answer
+// data types - number, string, Boolean (19th century mathematician, he created a branch of math called Boolean algebra - true and false were represented by the numbers 1 and 0 and the focus was on logical operations, this was basically a thought experiment for him and it ended up being the math that drove technology and computer science)
+// variables
+// Math.random
+// Functions
+// Equality operators - returns a Boolean value
