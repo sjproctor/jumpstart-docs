@@ -32,3 +32,4 @@ function treasure(location){
   }
   document.getElementById(location).disabled = true
 }
+// Emoji keyboard: control + command + spacebar

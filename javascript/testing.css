@@ -1,0 +1,30 @@
+body {
+  /* background-color: #e8f5fc */
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Noto_Emoji_Pie_1f3dd.svg/1200px-Noto_Emoji_Pie_1f3dd.svg.png);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  color: #536169
+}
+
+table {
+  margin: auto;
+  border: 2px solid black;
+  background-color: white;
+}
+
+td {
+  border: 2px dashed black;
+  font-size: 75px;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+}
+
+img {
+  border: 2px solid red;
+}

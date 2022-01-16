@@ -11,14 +11,13 @@ body{
 
 h1{
   font-size: 80px;
-  font-weight: bold;
   padding: 10px;
   color: #cce0ff;
   text-shadow: 2px 2px #000;
   animation: bounceIn 4s infinite;
   animation-direction: alternate;
   animation-timing-function: ease-in-out;
-  text-align: center;x
+  text-align: center;
 }
 
 @keyframes bounceIn{
@@ -43,9 +42,6 @@ h1{
   color: #cce0ff;
   text-shadow: 2px 2px #000;
   font-size: 18px;
-  /* aligns the ul including the bulletpoints */
-  /* text-align: center;
-  list-style-position: inside; */
 }
 
 #gameboard{
