@@ -24,3 +24,7 @@ A weekend class for beginners at LEARN Academy. 20 hours of class covering intro
 - [ JavaScript ](./mini-jump/magic8.js)
 - [ HTML with CSS ](./mini-jump/magic8.html)
 - [ CSS ](./mini-jump/magic8.css)
+
+
+
+This is a test for interacting with GitHub!
