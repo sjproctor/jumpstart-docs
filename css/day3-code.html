@@ -24,14 +24,15 @@
     <div class="rules-section">
       <h3>Here are the rules for the game:</h3>
       <ul>
-        <li>Rule 1: Click on one of the question marks below.</li>
-        <li>Rule 2: If you find the treasure, you win!</li>
-        <li>Rule 3: If you find the bomb, you lose.</li>
+        <li>Click on one of the question marks below.</li>
+        <li>If you find the treasure, you win!</li>
+        <li>If you find the bomb, you lose.</li>
+        <li>If you use too many turns, you lose.</li>
       </ul>
       <h3>Good Luck!</h3>
     </div>
 
-    <div class="gameboard">
+    <div id="gameboard">
       <table>
         <tr>
           <td id="0" onclick="treasure(0)">?</td>
@@ -59,11 +60,11 @@
         </tr>
       </table>
     </div>
-    <p class="outcome"></p>
+    <p id="outcome"></p>
 
     <div class="bottom-section">
       <!-- <h3 id="turns">Turns remaining:</h3> -->
-      <h3 class="counter">Turns remaining: 10</h3>
+      <h3 id="counter">Turns remaining: 10</h3>
 
       <button type="button" onclick="location.reload()">Restart Game</button>
 

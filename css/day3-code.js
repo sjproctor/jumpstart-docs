@@ -16,7 +16,7 @@ function treasure(location) {
   document.getElementById("counter").innerHTML = `Turns remaining: ${counter}`
 
   if (treasureLocation === location) {
-    document.getElementById("outcome").innerHTML = "You WIN! 👑"
+    document.getElementById("outcome").innerHTML = "You WIN! 💎"
     document.getElementById("gameboard").innerHTML = ""
     document.getElementById("counter").innerHTML = ""
   } else if (bombLocation === location) {
@@ -28,6 +28,6 @@ function treasure(location) {
     document.getElementById("gameboard").innerHTML = ""
     document.getElementById("counter").innerHTML = ""
   } else if (treasureLocation !== location && bombLocation !== location) {
-    document.getElementById(location).innerHTML = "&#x1f332"
+    document.getElementById(location).innerHTML = "🌴"
   }
 }
